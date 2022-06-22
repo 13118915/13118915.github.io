@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](images/8EB56FC7-4E5F-4294-90CE-943A952C97EB.jpeg)
 ```
-![image](https://user-images.githubusercontent.com/107984146/175006488-8b0e6a6c-d7a6-4be8-a1ba-4c9f74743c9a.jpeg)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
