@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]()
+[Link](url) and ![Image](docs/assets/images/0DA15F52-ADC0-43AD-8296-D6E439873BF0.jpeg)
 ```
 
 
